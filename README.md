@@ -1,4 +1,4 @@
-# Olá! Eu sou o [João Vitor Grigorio Simões] 👋
+# Olá! Eu sou o João Vitor Grigorio Simões 👋
 
 🎓 **Formado em Administração** e atualmente atuando como **Dev Junior Fullstack**. Sou apaixonado por tecnologia e desenvolvimento, e estou constantemente em busca de novas formas de aprimorar minhas habilidades.
 
