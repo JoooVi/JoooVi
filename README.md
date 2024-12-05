@@ -33,7 +33,7 @@
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaovitorgrigorio/)  
 - 📫 [Email](mailto:jvgrigorio.simoes@gmail.com)
-- 🌐 [Discord] JoooVi
+- 🌐 Discord
 ---
 
 _“A melhor maneira de prever o futuro é inventá-lo.” – Alan Kay_
