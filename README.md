@@ -4,7 +4,7 @@
 
 ## 🔥 Sobre Mim
 - 👨‍💻 **Desenvolvedor Fullstack JavaScript**
-- 📚 Em 2025, iniciarei o curso de **Análise e Desenvolvimento de Sistemas**
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🌱 Sempre aprendendo algo novo no mundo da programação
 - 🎯 Focado em construir soluções eficientes e escaláveis
 
