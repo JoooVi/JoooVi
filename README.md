@@ -6,7 +6,6 @@ Sou apaixonado por tecnologia e desenvolvimento, e estou constantemente em busca
 ## 🔥 Sobre Mim  
 - 👨‍💻 **Desenvolvedor Fullstack JavaScript**  
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas**  
-- 🐍 Aprendendo **Python**
 - 🔥 Co-Criador da Radiant Studios
 - 🌱 Sempre aprendendo algo novo no mundo da programação  
 - 🎯 Focado em construir soluções eficientes e escaláveis  
