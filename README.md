@@ -31,10 +31,18 @@ Sou apaixonado por tecnologia e desenvolvimento, e estou constantemente em busca
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoooVi&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoooVi&layout=compact&theme=dark)  
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=JoooVi&amp;theme=radical&amp;show_icons=true&amp;locale=pt-br"
+    alt="Estatísticas do GitHub de JoooVi"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoooVi&amp;theme=radical&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br"
+    alt="Linguagens mais usadas por JoooVi"
+  />
+</p>
 
 ## 🌐 Onde me encontrar  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaovitorgrigorio/)  
